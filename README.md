@@ -1,1 +1,1 @@
-# group_final_project
+# Preparation for group final project
